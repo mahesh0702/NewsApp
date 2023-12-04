@@ -3,8 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Output :
 ![Uploading img-1.png…]()
-![Uploading img-2.png…]()
-![Uploading img-3.png…]()
 
 ## Available Scripts
 
