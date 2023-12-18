@@ -2,13 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Output :
+[img02](https://github.com/mahesh0702/React_NewsApp/assets/97695969/93d21ee0-3f7e-4f95-afad-0d5ab7bb7710)
+![img03](https://github.com/mahesh0702/React_NewsApp/assets/97695969/1717e4cb-2033-4398-a448-5dbb9e2f0088)
+![img04](https://github.com/mahesh0702/React_NewsApp/assets/97695969/12f7bfb4-4079-422b-a4f7-864699ac0288)
+![img05](https://github.com/mahesh0702/React_NewsApp/assets/97695969/f3cff005-be36-4e64-9926-c2097019562d)
+![img06](https://github.com/mahesh0702/React_NewsApp/assets/97695969/87671e90-eb10-4f04-898d-6788fbfaad23)
 
-![img-1](https://github.com/mahesh0702/NewsApp/assets/97695969/c38c362d-c671-435f-862d-f19733327c31)
-![img-2](https://github.com/mahesh0702/NewsApp/assets/97695969/7c7c05cd-2d99-494f-8a56-83043c113ec6)
-![img-3](https://github.com/mahesh0702/NewsApp/assets/97695969/879f395a-6e79-45ed-80cf-b6bb3220f415)
+
+## Available Scripts!
 
 
-## Available Scripts
 
 
 In the project directory, you can run:
