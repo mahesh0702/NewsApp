@@ -2,14 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Output :
-[img02](https://github.com/mahesh0702/React_NewsApp/assets/97695969/93d21ee0-3f7e-4f95-afad-0d5ab7bb7710)
-![img03](https://github.com/mahesh0702/React_NewsApp/assets/97695969/1717e4cb-2033-4398-a448-5dbb9e2f0088)
-![img04](https://github.com/mahesh0702/React_NewsApp/assets/97695969/12f7bfb4-4079-422b-a4f7-864699ac0288)
-![img05](https://github.com/mahesh0702/React_NewsApp/assets/97695969/f3cff005-be36-4e64-9926-c2097019562d)
-![img06](https://github.com/mahesh0702/React_NewsApp/assets/97695969/87671e90-eb10-4f04-898d-6788fbfaad23)
+![im1](https://github.com/mahesh0702/NewsApp/assets/97695969/273ce558-08c1-4cc4-a6e2-772e9fa91877)
+![im2](https://github.com/mahesh0702/NewsApp/assets/97695969/499a7dab-2f94-4070-8fd1-7584a253d7d8)!
+[im3](https://github.com/mahesh0702/NewsApp/assets/97695969/13948752-5781-45c5-a9e1-074e10564cd3)
+![im4](https://github.com/mahesh0702/NewsApp/assets/97695969/ca519cbb-b724-4e42-bb08-7f7a8b6fb4d7)
 
 
 ## Available Scripts!
+
 
 
 
