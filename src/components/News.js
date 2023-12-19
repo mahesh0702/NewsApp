@@ -32,7 +32,7 @@ export class News extends Component {
       loading: true,
       page: 1,
     };
-    document.title=`${this.capitalizeFirstLetter(this.props.category)} - NewsMonkey`;
+    document.title=`${this.capitalizeFirstLetter(this.props.category)} - NewsWave`;
   }
 
 async updateNews(){
@@ -112,7 +112,7 @@ async updateNews(){
   render() {
     return (
       <div className="container my-3 ">
-        <h1 className="text-center" style={{ margin: '35px 0px,',marginTop:'90px'}}>NewsMonkey - Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h1>
+        <h1 className="text-center" style={{ margin: '35px 0px,',marginTop:'90px'}}>NewsWave - Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h1>
         {this.state.loading && <Spinner />}
         <div className="row">
           {!this.state.loading && this.state.articles.map((element) => {
