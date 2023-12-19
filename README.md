@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Output :
 ![im1](https://github.com/mahesh0702/NewsApp/assets/97695969/273ce558-08c1-4cc4-a6e2-772e9fa91877)
-![im2](https://github.com/mahesh0702/NewsApp/assets/97695969/499a7dab-2f94-4070-8fd1-7584a253d7d8)!
+![im2](https://github.com/mahesh0702/NewsApp/assets/97695969/499a7dab-2f94-4070-8fd1-7584a253d7d8)
 [im3](https://github.com/mahesh0702/NewsApp/assets/97695969/13948752-5781-45c5-a9e1-074e10564cd3)
 ![im4](https://github.com/mahesh0702/NewsApp/assets/97695969/ca519cbb-b724-4e42-bb08-7f7a8b6fb4d7)
 
